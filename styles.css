@@ -41,6 +41,7 @@ a {
     height: 30px;
     border-radius: 6px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .texts {
